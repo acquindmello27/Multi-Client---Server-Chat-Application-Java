@@ -1,5 +1,5 @@
 This is a Multi-Client Server Chat Application.
-Steps to run the project
+Steps to run the project\n
 1. Import the project in eclipse. Importing instructions - http://agile.csc.ncsu.edu/SEMaterials/tutorials/import_export/index.html#section1_0
 2. Run the Server.java file first.
 3. Run the Client.java file.
